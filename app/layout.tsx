@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     siteName: "AgriNews & Research Hub",
     images: [
       {
-        url: "/og-image.png", // Place this image in /public folder
+        url: "https://agric-news-hub.vercel.app/og-image.png", // Place this image in /public folder
         width: 1200,
         height: 630,
         alt: "AgriNews Preview Image",
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AgriNews & Research Hub",
     description: "Explore agriculture's future — news, research, and more.",
-    images: ["/og-image.png"],
+    images: ["https://agric-news-hub.vercel.app/og-image.png"],
     creator: "@your_twitter_handle", // optional
   },
 }
