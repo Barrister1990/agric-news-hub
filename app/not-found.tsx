@@ -1,3 +1,5 @@
+"use client"
+
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { AlertTriangle, ArrowLeft, BookOpen, Home, Newspaper, Search, Sparkles, Users } from "lucide-react"
